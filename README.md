@@ -29,4 +29,4 @@ The installable files are [`pet.json`](mit3uri/pet.json) and [`spritesheet.webp`
 
 ## Attribution and use
 
-Character design and reference artwork belong to their respective rights holders. This unofficial fan pet is intended for non-commercial use only. Confirm redistribution permission with the rights holders before a public release.
+Character design and reference artwork belong to their respective rights holders. This unofficial fan pet is intended for non-commercial use only. 
