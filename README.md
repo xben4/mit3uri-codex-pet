@@ -1,8 +1,18 @@
 # 三理Mit3uri · Codex pet
 
+[简体中文](README.zh-CN.md)
+
 An unofficial fan-made chibi companion for Codex, for non-commercial use only. Character reference: [三理Mit3uri on Bilibili](https://space.bilibili.com/2030198123).
 
 ## Install
+
+### Ask Codex to install it
+
+Replace the placeholder with the GitHub URL of this release repository, then paste the request into Codex.
+
+> Install the 三理Mit3uri Codex pet from `<GitHub repository URL>`. Copy its `mit3uri` folder into my Codex `pets` directory and tell me how to select it.
+
+### Install manually
 
 1. Extract the release ZIP or download the `mit3uri` folder from this repository.
 2. Copy the whole `mit3uri` folder into your Codex `pets` directory. The two files should sit directly inside the copied folder.
